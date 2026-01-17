@@ -27,5 +27,3 @@ By integrating plant statistics, zombie attributes, and level configurations, th
 
 - Tableau  
 - Structured game attribute datasets
-
-This project demonstrates how data visualization can be used to diagnose balance issues and support design decisions in complex systems.
